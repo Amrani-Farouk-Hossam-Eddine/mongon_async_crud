@@ -1,0 +1,10 @@
+20230916	15:49:55	b9008b6b-57b0-4d7d-8b42-5e63556d101b	Error: Not allowed by CORS
+20230917	13:10:59	d5fae991-07b6-46f8-b356-d92a939e9b8a	Error: ENOENT: no such file or directory, stat 'E:\My Projects\Node Js\routes\views\subdir\test.html'
+20230917	13:10:59	7f47f8f3-92c8-414e-8bc7-f95e36116d0b	Error: ENOENT: no such file or directory, stat 'E:\My Projects\Node Js\routes\views\subdir\test.html'
+20230924	16:17:37	5261eb2e-b946-4dbc-b458-918b990374f1	SyntaxError: Unexpected token } in JSON at position 42
+20230927	15:55:23	e883e5f0-74b0-4db7-8c05-4455576ee6f4	SyntaxError: Unexpected token c in JSON at position 16
+20230927	15:55:36	15490205-ad73-4a59-b061-03806507edf9	SyntaxError: Unexpected token c in JSON at position 16
+20230927	15:55:36	82967ee8-016b-4d92-a763-4ea6e0f8409f	SyntaxError: Unexpected token c in JSON at position 16
+20230927	15:55:37	9267e53d-50b5-4f0f-9625-900ed21e7554	SyntaxError: Unexpected token c in JSON at position 16
+20230927	15:55:37	2e624da9-9385-429b-8a3b-1789ffd962a2	SyntaxError: Unexpected token c in JSON at position 16
+20230927	15:57:13	b59a8260-ca12-40b8-94c8-6f2df30f83e5	SyntaxError: Unexpected string in JSON at position 39
